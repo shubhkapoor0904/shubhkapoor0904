@@ -7,4 +7,4 @@ Currently working on:
 - Computer vision for real-time driver monitoring (DAMTS — MediaPipe, YOLOv8)
 - CNN implementation from scratch in NumPy (BTP under Prof. Sarada P. Samantaray)
 
-📄 [Resume](link) · Based in India
+📄 [Resume](📄https://github.com/shubhkapoor0904/shubhkapoor0904/blob/main/Shubh_Kapoor_Resume.pdf) · Based in India
