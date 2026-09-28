@@ -1,16 +1,14 @@
 <img align="right" src="./.github/assets/hero.gif" width="280">
 
-# Shubh Kapoor
-
 ```javascript
 const shubh = {
   role: "AI/ML Engineer & Developer",
-  education: "C&CE @ LNMIIT Jaipur",
+  education: "BTech CCE @ LNMIIT Jaipur",
 
   building: [
-    "AI agents",
+    "agents",
+    "full-stack products",
     "computer vision",
-    "backend systems",
     "occasionally weird stuff"
   ],
 
