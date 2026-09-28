@@ -1,7 +1,12 @@
-### Shubh | AI/ML Engineer & Developer
+<p align="center">
+  <img src="./.github/assets/hero.gif" width="650">
+</p>
+
+<h1 align="center">Shubh Kapoor</h1>
+
+
+<p align="center">
+  <b>AI/ML Engineer · Software Developer · Builder</b>
+</p>
 
 Final-year Computer & Communication Engineering student @ LNMIIT Jaipur, interested in building intelligent products at the intersection of AI and software engineering.
-
-My work spans multi-agent systems, computer vision, retrieval-augmented generation, and full-stack development, with a focus on building practical systems that reason over context, retrieve relevant information, and turn ideas into usable products.
-
-📄 [Resume](https://github.com/shubhkapoor0904/shubhkapoor0904/blob/main/Shubh_Kapoor_Resume.pdf) · Based in India
