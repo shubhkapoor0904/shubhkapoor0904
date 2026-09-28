@@ -1,6 +1,9 @@
 
-<img align="right" src="./.github/assets/hero.gif" width="200">
 <img align="right" src="./.github/assets/dawg.gif" width="120">
+
+<table border="0">
+<tr>
+<td width="58%" valign="top">
 
 ```javascript
 const shubh = {
@@ -8,15 +11,16 @@ const shubh = {
   education: "BTech CCE @ LNMIIT Jaipur",
 
   builds: [
-    "AI agents",
-    "full-stack products",
+    "AI agent systems",
+    "RAG pipelines",
     "computer vision",
-    "occasionally weird stuff"
+    "full-stack products"
   ],
 
   into: [
     "AI",
     "systems",
+    "security",
     "design",
     "good films"
   ],
@@ -31,5 +35,5 @@ const shubh = {
 <div align="middle">
   <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,fastapi,ts,react,nextjs,nodejs,postgres,redis" />
   <br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,github,sklearn,opencv,huggingface,linux,anaconda,bash" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,github,sklearn,opencv,tensorflow,linux,anaconda,bash" />
 </div>
