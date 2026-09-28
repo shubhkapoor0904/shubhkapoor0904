@@ -1,6 +1,5 @@
+<br><br>
 <img align="right" src="./.github/assets/hero.gif" width="260">
-
-<br><br><br>
 
 ```javascript
 const shubh = {
