@@ -1,44 +1,39 @@
-<p align="right">
-  <img src="./.github/assets/hero.gif" width="200">
-</p>
-
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="68%" valign="middle">
 
-# Shubh Kapoor
+<h1>Shubh Kapoor</h1>
 
-```python
-shubh = {
-    "role": "AI/ML Engineer & Developer",
-    "education": "C&CE @ LNMIIT Jaipur",
+<pre><code>const shubh = {
+  role: "AI/ML Engineer",
+  builds: [
+    "AI agents",
+    "backend systems",
+    "computer vision",
+    "occasionally weird stuff"
+  ],
+  interests: [
+    "AI",
+    "systems",
+    "design",
+    "good films"
+  ],
+  debugging:
+    "stare at it until it becomes personal",
 
-    "building": [
-        "AI agents",
-        "computer vision systems",
-        "backend services",
-        "occasionally questionable side projects"
-    ],
+  status: "building"
+};</code></pre>
 
-    "interests": [
-        "Agentic AI",
-        "RAG",
-        "Computer Vision",
-        "Backend Systems",
-        "Developer Tools"
-    ],
+</td>
 
-    "stack": [
-        "Python",
-        "PyTorch",
-        "FastAPI",
-        "TypeScript",
-        "React",
-        "Next.js"
-    ],
+<td width="32%" align="center" valign="middle">
 
-    "debugging_strategy":
-        "stare at the error until it becomes personal",
+<img src="./.github/assets/hero.gif" width="240">
 
-    "current_status": "building"
-}
+<br>
+
+<sub><i>there is no spoon.</i></sub>
+
+</td>
+</tr>
+</table>
