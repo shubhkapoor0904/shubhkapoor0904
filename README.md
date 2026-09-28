@@ -1,12 +1,14 @@
-<img align="right" src="./.github/assets/hero.gif" width="280">
+<img align="right" src="./.github/assets/hero.gif" width="260">
+
+<br><br><br>
 
 ```javascript
 const shubh = {
   role: "AI/ML Engineer & Developer",
   education: "BTech CCE @ LNMIIT Jaipur",
 
-  building: [
-    "agents",
+  builds: [
+    "AI agents",
     "full-stack products",
     "computer vision",
     "occasionally weird stuff"
@@ -20,6 +22,5 @@ const shubh = {
   ],
 
   debugging: "if it works, don't touch it",
-
   status: "building"
 };
