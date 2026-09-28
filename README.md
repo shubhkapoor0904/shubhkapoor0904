@@ -1,26 +1,12 @@
 
-<img align="right" src="./.github/assets/dawg.gif" width="120">
+<img align="right" src="./.github/assets/dawg.gif" width="180">
 
 ```javascript
 const shubh = {
   role: "AI/ML Engineer & Developer",
   education: "BTech CCE @ LNMIIT Jaipur",
-
-  builds: [
-    "AI agent systems",
-    "RAG pipelines",
-    "computer vision",
-    "full-stack products"
-  ],
-
-  into: [
-    "AI",
-    "systems",
-    "security",
-    "design",
-    "good films"
-  ],
-
+  builds: ["AI agent systems","RAG pipelines","computer vision","full-stack products"],
+  into: ["AI","systems","security","design","good films"],
   debugging: "if it works, don't touch it",
   status: "building"
 };
