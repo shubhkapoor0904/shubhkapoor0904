@@ -28,12 +28,8 @@ const shubh = {
 
 <br>
 
-<div align="right">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,fastapi,ts,react,nodejs" />
+<div align="middle">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,fastapi,ts,react,nextjs,nodejs,postgres,redis" />
   <br>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,kubernetes,aws,github" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=sklearn,opencv,huggingface" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,github,sklearn,opencv,huggingface,linux,anaconda,bash" />
 </div>
-
-<hr>
