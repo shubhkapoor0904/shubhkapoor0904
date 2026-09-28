@@ -1,39 +1,27 @@
-<table>
-<tr>
-<td width="68%" valign="middle">
+<img align="right" src="./.github/assets/hero.gif" width="280">
 
-<h1>Shubh Kapoor</h1>
+# Shubh Kapoor
 
-<pre><code>const shubh = {
-  role: "AI/ML Engineer",
-  builds: [
+```javascript
+const shubh = {
+  role: "AI/ML Engineer & Developer",
+  education: "C&CE @ LNMIIT Jaipur",
+
+  building: [
     "AI agents",
-    "backend systems",
     "computer vision",
+    "backend systems",
     "occasionally weird stuff"
   ],
-  interests: [
+
+  into: [
     "AI",
     "systems",
     "design",
     "good films"
   ],
-  debugging:
-    "stare at it until it becomes personal",
+
+  debugging: "if it works, don't touch it",
 
   status: "building"
-};</code></pre>
-
-</td>
-
-<td width="32%" align="center" valign="middle">
-
-<img src="./.github/assets/hero.gif" width="240">
-
-<br>
-
-<sub><i>there is no spoon.</i></sub>
-
-</td>
-</tr>
-</table>
+};
