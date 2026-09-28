@@ -1,10 +1,6 @@
 
 <img align="right" src="./.github/assets/dawg.gif" width="120">
 
-<table border="0">
-<tr>
-<td width="58%" valign="top">
-
 ```javascript
 const shubh = {
   role: "AI/ML Engineer & Developer",
