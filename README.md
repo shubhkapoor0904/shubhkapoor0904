@@ -1,5 +1,6 @@
 
-<img align="right" src="./.github/assets/hero.gif" width="230">
+<img align="middle" src="./.github/assets/hero.gif" width="240">
+<img align="bottom right" src="./.github/assets/dawg.gif" width="240">
 
 ```javascript
 const shubh = {
