@@ -24,6 +24,7 @@ const shubh = {
   debugging: "if it works, don't touch it",
   status: "building"
 };
+```
 
 <br>
 
