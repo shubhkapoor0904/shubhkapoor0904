@@ -1,3 +1,6 @@
+<p align="right">
+  <img src="./.github/assets/hero.gif" width="200">
+</p>
 
 <table>
 <tr>
@@ -39,5 +42,3 @@ shubh = {
 
     "current_status": "building"
 }
-
-</td> <td width="35%" align="center" valign="middle"> <img src="./.github/assets/hero.gif" width="280"> </td> </tr> </table>
