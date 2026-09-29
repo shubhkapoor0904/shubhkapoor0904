@@ -1,10 +1,11 @@
 
-<img align="right" src="./.github/assets/dawg.gif" width="180">
+<img align="right" src="./.github/assets/dawg.gif" width="195">
 
 ```javascript
 const shubh = {
   role: "AI/ML Engineer & Developer",
   education: "BTech CCE @ LNMIIT Jaipur",
+  open_to_work: true,
   builds: ["AI agent systems","RAG pipelines","computer vision","full-stack products"],
   into: ["AI","systems","security","design","good films"],
   debugging: "if it works, don't touch it",
